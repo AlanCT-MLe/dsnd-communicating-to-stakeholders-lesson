@@ -30,6 +30,20 @@ There are 3 notebooks available here to showcase work related to the above quest
 
 There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
+### BootcampStats.ipynb
+- Data analysis of software developers who have undergone or not a Bootcamp. Their background education and how their enrollment(or none) has impacted their job status and salary.
+
+### HowtoBreakIntoTheField.ippynb
+- It analyse the advice from SWE about how to swith into a coding job such as SWE or DEV.
+
+### Salary.ipynb
+- Analysis of the numerical variables of the dataset related to job and career satistaction, expected salary, stack overflow satisfaction, etc. To then fit a linear model to
+predict the salary of each of the respondants. 
+
+### Salary_ML.py
+- Here you can find the python code from the functions used to clean data and find the optimal ML model to predict the salary in the juoyter notebook _Salary.ipynb_
+
+
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
